@@ -1,4 +1,4 @@
-Hi, This is RAKESH RAWAT 👋
+<h1 align="center">Hi 👋, I'm RAKESH RAWAT</h1>
 
 - 🔭 I’m currently working on Exploratory Data analysis for optimising R&D Portfolio and Budget for an Organisation in Pharma 
 - 🌱 I’m currently learning ML Model deployment
