@@ -9,5 +9,4 @@ Hi, This is RAKESH RAWAT 👋
 - 😄 Pronouns: 
 - ⚡ Fun fact: Im an Art lover and creator. Discover my art portfolio at Hobbiesalive.com
 
-https://github-stats.com/rakesh82rawat
 
